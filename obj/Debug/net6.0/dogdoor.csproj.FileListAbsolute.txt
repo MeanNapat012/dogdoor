@@ -1,0 +1,15 @@
+D:\github\dogdoor\obj\Debug\net6.0\dogdoor.csproj.AssemblyReference.cache
+D:\github\dogdoor\obj\Debug\net6.0\dogdoor.GeneratedMSBuildEditorConfig.editorconfig
+D:\github\dogdoor\obj\Debug\net6.0\dogdoor.AssemblyInfoInputs.cache
+D:\github\dogdoor\obj\Debug\net6.0\dogdoor.AssemblyInfo.cs
+D:\github\dogdoor\obj\Debug\net6.0\dogdoor.csproj.CoreCompileInputs.cache
+D:\github\dogdoor\bin\Debug\net6.0\dogdoor.exe
+D:\github\dogdoor\bin\Debug\net6.0\dogdoor.deps.json
+D:\github\dogdoor\bin\Debug\net6.0\dogdoor.runtimeconfig.json
+D:\github\dogdoor\bin\Debug\net6.0\dogdoor.dll
+D:\github\dogdoor\bin\Debug\net6.0\dogdoor.pdb
+D:\github\dogdoor\obj\Debug\net6.0\dogdoor.dll
+D:\github\dogdoor\obj\Debug\net6.0\refint\dogdoor.dll
+D:\github\dogdoor\obj\Debug\net6.0\dogdoor.pdb
+D:\github\dogdoor\obj\Debug\net6.0\dogdoor.genruntimeconfig.cache
+D:\github\dogdoor\obj\Debug\net6.0\ref\dogdoor.dll
